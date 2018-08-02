@@ -1,0 +1,31 @@
+.name{   
+    font-family: Baskerville Old Face;
+}
+#img{
+    padding-top: 60px;
+    width: 100%; 
+    float: left;    
+}
+hr{
+    background-color:aqua; 
+    height: 3px;
+    border-radius: 3px;
+}
+a{
+    color: rgb(43, 255, 0);
+}
+#ab{
+    border-radius: 5px;
+}
+.para{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+.nolink{
+    color: black;
+}
+.my{
+    font-size: 100px;
+            
+}
